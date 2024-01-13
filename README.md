@@ -4,7 +4,7 @@ This is a Hello World application in Javascript.
 
 The purpose is to practice different programming languages.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/s0h-gZS_LB0)
 
 # Development Environment
 
